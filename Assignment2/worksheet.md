@@ -1,10 +1,7 @@
 # CENTER CHARACTER  #
 
 - **Arnab Mukherjee**
-- **s2423463**
-- **Group 05- Mon 1510-1630 (Intermediate)**
-- **Brodbelt Alexander**
-- **2023-02-15**
+
 # Target audience #
 This challenge is targeted for <u>complete beginners</u> who are quite new on their journey of programming. It encourages the implementation of a creative solution for a rather theoretically easy problem with an interesting approach with real-world applications to nurture the reader's curiosity
 
