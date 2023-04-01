@@ -1,10 +1,6 @@
 # First design #
 
 - **Arnab Mukherjee**
-- **s2423463**
-- **Group 05- Mon 1510-1630 (Intermediate)**
-- **Brodbelt Alexander**
-- **2023-02-15**
   
 # Diagram #
 
