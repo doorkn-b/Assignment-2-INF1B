@@ -12,7 +12,7 @@ The 'Finding the Centre' challenge requires us to find the centre of a given str
 
 Take a look at this for a better idea with an example.
 
-![l](challenge.jpg)
+![alt text](https://github.com/doorkn-b/Assignment-2-INF1B/blob/main/Assignment2/challenge.jpg)
 
 Given the input is of
 
